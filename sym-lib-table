@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sfp_loopback-rescue)(type Legacy)(uri ${KIPRJMOD}/sfp_loopback-rescue.lib)(options "")(descr ""))
+)
